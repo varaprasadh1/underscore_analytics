@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.whitespace{
+  height: 1000px;
+  background: linear-gradient(white,black);
+}
+
+.trackable-content{
+  padding: 1em;
+  background: black;
+  color: white;
+}
